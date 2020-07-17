@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **WonsultingProject2020**
 
-- 👨‍💻 All of my projects are available at [shivanireddy.github.io](shivanireddy.github.io)
+- 👨‍💻 All of my projects are available at shivanireddy.github.io
 
 - 📝 I regulary write poems on [shivanireddyyy.wordpress.com](shivanireddyyy.wordpress.com)
 
