@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **WonsultingProject2020**
 
-- 👨‍💻 All of my projects are available at shivanireddy.github.io
+- 👨‍💻 All of my projects are available at <a href="https://www.github.com/shivanireddy" />
 
-- 📝 I regulary write poems on [shivanireddyyy.wordpress.com](shivanireddyyy.wordpress.com)
+- 📝 I regulary write poems on <a href="https://shivanireddyyy.wordpress.com" />
 
 - 📫 How to reach me **shivanir1197@gmail.com**
 
