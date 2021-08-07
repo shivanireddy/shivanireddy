@@ -1,18 +1,39 @@
-### Hi there 👋, my name is Shivani
-#### Software Developer | Data Analyst | Quality Assurance
-I'm a Computer Science Graduate Student with almost 1.5 yrs of experience (incl. internships) in software development and I have always delivered products based on customer-centric solutions within the stipulated time. I have a practical understanding of databases, programming languages, and working with large datasets. I am curious and always up for learning new skills and technologies.
+# Shivani Reddy 👩‍💻
 
-Skills: Java / Python / HTML / CSS / JavaScript / React / Spring / Data Analysis / Selenium
+I'm a **Software Developer** experienced in Frontend **Web Development**, **Data Analytics**, & **Quality Assurance**. 
 
-- 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning Spring Boot by building projects 
-- 👯 I’m looking to collaborate on any web development or data science projects or leetcode study-buddy
-- 📫 How to reach me: hireshivanirdy@gmail.com
-- 😄 Pronouns: she/her/hers 
+When I am not coding, I am taking part in hackathons, writing blogs, listening to music and watching movies.
+
+I'm always open to have a talk about anything.
+
+<p align="center">
+<a href="https://shivanireddy.github.io"/>
+</p>
+
+![Generic badge](https://img.shields.io/badge/Shivani-Reddy-orange) 
+
+## My Tech Stack :computer:
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/-SpringMVC-green?style=for-the-badge" alt="SpringMVC"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge" alt="GitHub"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge" alt="MaterializeCSS"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge" alt="Bootstrap"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React"> <img src="https://img.shields.io/badge/-GCP-pink?style=for-the-badge" alt="GCP"> <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge" alt="Firebase">
+
+## What I Am Learning :books:
+ <img src="https://img.shields.io/badge/-Nodejs-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivanireddy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hireshivani/)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanireddy&show_icons=true)  
+![Shivani's Github Stats](https://github-readme-stats.vercel.app/api?username=shivanireddy&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
 
-![Profile views](https://gpvc.arturio.dev/shivanireddy)  
+## Need help?
+
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivanireddyyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanir1197/) [![Twitter Follow](https://img.shields.io/twitter/follow/shivanireddyyy?style=social)](https://twitter.com/shivanireddyyy)
+---------
+
+```javascript
+
+if (youLikedMyProfile) {
+    followMeOnGitHub();
+}
+
+```
+
+-----------
