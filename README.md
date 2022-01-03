@@ -1,8 +1,8 @@
 # Shivani Reddy 👩‍💻
 
-I'm a **Software Developer** experienced in Frontend **Web Development**, **Data Analytics**, & **Quality Assurance**. 
+I have experience in **Software Development**, **Data Analytics**, & **Quality Assurance**. 
 
-When I am not coding, I am taking part in hackathons, writing blogs, listening to music and watching movies.
+When I am not coding, I am taking part in hackathons, writing poems, listening to music and playing kalimba (musical instrument).
 
 I'm always open to have a talk about anything.
 
@@ -25,7 +25,7 @@ I'm always open to have a talk about anything.
 
 ## Need help?
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivanireddyyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanir1197/) [![Twitter Follow](https://img.shields.io/twitter/follow/shivanireddyyy?style=social)](https://twitter.com/shivanireddyyy)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivanireddyyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanir1197/)
 ---------
 
 ```javascript
