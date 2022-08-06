@@ -25,7 +25,7 @@ I'm always open to have a talk about anything.
 
 ## Need help?
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivanireddyyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanir1197/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanir1197/)
 ---------
 
 ```javascript
