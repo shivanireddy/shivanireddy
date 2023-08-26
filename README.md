@@ -2,9 +2,9 @@
 
 I have experience in **Software Development**, **Data Analytics**, & **Quality Assurance**. 
 
-When I am not coding, I am taking part in hackathons, writing poems, listening to music and playing kalimba (musical instrument).
+When I am not coding, I am taking part in hackathons, writing poems, listening to music, and playing kalimba (musical instrument).
 
-I'm always open to have a talk about anything.
+I'm always open to having a talk about anything.
 
 <p align="center">
 <a href="https://shivanireddy.github.io"/>
