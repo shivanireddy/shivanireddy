@@ -1,10 +1,10 @@
-# Shivani Reddy 👩‍💻
+# Shivani  👩‍💻
 
-I have experience in **Software Development**, **Data Analytics**, & **Quality Assurance**. 
+I have 5 years of experience in the tech industry, with a focus on data engineering and data analysis.
 
-When I am not coding, I am taking part in hackathons, writing poems, listening to music, and playing kalimba (musical instrument).
+When I am not coding, I write, listen to music, read books, and play the kalimba (a musical instrument).
 
-I'm always open to having a talk about anything.
+I'm always open to discussing anything.
 
 <p align="center">
 <a href="https://shivanireddy.github.io"/>
